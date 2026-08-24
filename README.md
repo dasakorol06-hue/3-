@@ -20,5 +20,5 @@
 ## 📁 Структура проекта
 
 Dataset petrol.csv # Исходные данные (цены на бензин)
-fuel_analysis.ipynb # Jupyter Notebook с полным анализом
+Анализ статистических данных о ценах на бензин в  ЮФО.ipynb # Jupyter Notebook с полным анализом
 README.md # Описание проекта
