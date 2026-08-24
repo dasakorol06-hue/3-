@@ -16,3 +16,9 @@
 **Scikit-learn** - Построение прогнозной модели (RandomForest)
 
 **SciPy** - Статистические тесты (корреляция Пирсона)
+
+## 📁 Структура проекта
+
+Dataset petrol.csv # Исходные данные (цены на бензин)
+fuel_analysis.ipynb # Jupyter Notebook с полным анализом
+README.md # Описание проекта
